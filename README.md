@@ -10,3 +10,6 @@ For the data binding, I used the concept of Boxing. Other MVVM ways of data bind
 1. Open Xcode
 2. Click the run button
 3. To run tests, `Command + U`
+
+## Screenshots
+![London, U.K. Example](https://user-images.githubusercontent.com/15069287/156748541-257a88e4-163c-43f5-8e77-33a4251b2f10.png)
