@@ -1,0 +1,165 @@
+{
+  "consolidated_weather": [
+    {
+      "id": 4925741000032256,
+      "weather_state_name": "Heavy Cloud",
+      "weather_state_abbr": "hc",
+      "wind_direction_compass": "WSW",
+      "created": "2022-03-04T10:16:22.070481Z",
+      "applicable_date": "2022-03-04",
+      "min_temp": -8.705,
+      "max_temp": 0.31999999999999995,
+      "the_temp": 0.6400000000000001,
+      "wind_speed": 9.923662601018055,
+      "wind_direction": 255.1724054965062,
+      "air_pressure": 1030.5,
+      "humidity": 50,
+      "visibility": 15.448530581404597,
+      "predictability": 71
+    },
+    {
+      "id": 6087744032866304,
+      "weather_state_name": "Heavy Cloud",
+      "weather_state_abbr": "hc",
+      "wind_direction_compass": "E",
+      "created": "2022-03-04T10:16:25.290391Z",
+      "applicable_date": "2022-03-05",
+      "min_temp": -2.7750000000000004,
+      "max_temp": 2.565,
+      "the_temp": 1.455,
+      "wind_speed": 8.96115499639704,
+      "wind_direction": 92.33346500159422,
+      "air_pressure": 1026,
+      "humidity": 68,
+      "visibility": 12.350684502505368,
+      "predictability": 71
+    },
+    {
+      "id": 5524794079444992,
+      "weather_state_name": "Light Rain",
+      "weather_state_abbr": "lr",
+      "wind_direction_compass": "WSW",
+      "created": "2022-03-04T10:16:28.175137Z",
+      "applicable_date": "2022-03-06",
+      "min_temp": 2.01,
+      "max_temp": 11.715,
+      "the_temp": 12.955,
+      "wind_speed": 16.728048232442536,
+      "wind_direction": 247.83162849714472,
+      "air_pressure": 1003.5,
+      "humidity": 75,
+      "visibility": 10.356704346615764,
+      "predictability": 75
+    },
+    {
+      "id": 5482866843582464,
+      "weather_state_name": "Heavy Rain",
+      "weather_state_abbr": "hr",
+      "wind_direction_compass": "N",
+      "created": "2022-03-04T10:16:31.550875Z",
+      "applicable_date": "2022-03-07",
+      "min_temp": -0.49,
+      "max_temp": 3.16,
+      "the_temp": 2.5300000000000002,
+      "wind_speed": 6.837130766051593,
+      "wind_direction": 10.11655809589326,
+      "air_pressure": 1013.5,
+      "humidity": 68,
+      "visibility": 7.802558060924202,
+      "predictability": 77
+    },
+    {
+      "id": 5776190695538688,
+      "weather_state_name": "Light Rain",
+      "weather_state_abbr": "lr",
+      "wind_direction_compass": "WSW",
+      "created": "2022-03-04T10:16:34.089717Z",
+      "applicable_date": "2022-03-08",
+      "min_temp": -1.895,
+      "max_temp": 3.415,
+      "the_temp": 3.01,
+      "wind_speed": 9.41669588228744,
+      "wind_direction": 251.3359374555489,
+      "air_pressure": 1014.5,
+      "humidity": 54,
+      "visibility": 12.957142786129005,
+      "predictability": 75
+    },
+    {
+      "id": 5720872489844736,
+      "weather_state_name": "Light Cloud",
+      "weather_state_abbr": "lc",
+      "wind_direction_compass": "W",
+      "created": "2022-03-04T10:16:37.488912Z",
+      "applicable_date": "2022-03-09",
+      "min_temp": -0.31000000000000005,
+      "max_temp": 4.76,
+      "the_temp": 4.15,
+      "wind_speed": 7.367226596675415,
+      "wind_direction": 263,
+      "air_pressure": 1017,
+      "humidity": 44,
+      "visibility": 9.999726596675416,
+      "predictability": 70
+    }
+  ],
+  "time": "2022-03-04T05:19:39.683952-05:00",
+  "sun_rise": "2022-03-04T06:48:55.222035-05:00",
+  "sun_set": "2022-03-04T18:10:09.900426-05:00",
+  "timezone_name": "LMT",
+  "parent": {
+    "title": "Canada",
+    "location_type": "Country",
+    "woeid": 23424775,
+    "latt_long": "56.954681,-98.308968"
+  },
+  "sources": [
+    {
+      "title": "BBC",
+      "slug": "bbc",
+      "url": "http://www.bbc.co.uk/weather/",
+      "crawl_rate": 360
+    },
+    {
+      "title": "Forecast.io",
+      "slug": "forecast-io",
+      "url": "http://forecast.io/",
+      "crawl_rate": 480
+    },
+    {
+      "title": "HAMweather",
+      "slug": "hamweather",
+      "url": "http://www.hamweather.com/",
+      "crawl_rate": 360
+    },
+    {
+      "title": "Met Office",
+      "slug": "met-office",
+      "url": "http://www.metoffice.gov.uk/",
+      "crawl_rate": 180
+    },
+    {
+      "title": "OpenWeatherMap",
+      "slug": "openweathermap",
+      "url": "http://openweathermap.org/",
+      "crawl_rate": 360
+    },
+    {
+      "title": "Weather Underground",
+      "slug": "wunderground",
+      "url": "https://www.wunderground.com/?apiref=fc30dc3cd224e19b",
+      "crawl_rate": 720
+    },
+    {
+      "title": "World Weather Online",
+      "slug": "world-weather-online",
+      "url": "http://www.worldweatheronline.com/",
+      "crawl_rate": 360
+    }
+  ],
+  "title": "Toronto",
+  "location_type": "City",
+  "woeid": 4118,
+  "latt_long": "43.648560,-79.385368",
+  "timezone": "America/Toronto"
+}
